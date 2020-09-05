@@ -1,2 +1,2 @@
 # hello-world-pub
-This hello-world the public repo
+This is the hello-world public version of the repository
